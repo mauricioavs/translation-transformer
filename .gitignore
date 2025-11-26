@@ -1,0 +1,4 @@
+.venv
+bpe_enes.json
+__pycache__
+.pytest_cache
